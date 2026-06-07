@@ -1,4 +1,4 @@
-##  All about mei:
+##  All about me:
 ####  Heyyy, I'm a student developer from Nepal 🇳🇵<br><br>I started coding to make games and visual novels, and slowly found myself building all sorts of things along the way and genuinely loved the feeling of seeing an idea come to life on screen.<br><br>🎮 Game development with Godot, Unity & Ren'Py  <br>🧠 Developing a Context-Aware AI Learning System  <br>💻 Exploring AI engineering, automation & software development  <br>🌱 Learning and growing every day  <br><br>🚀 Interests: <br>.Artifical Intelligence <br>.Machine Learning <br>.Game Development <br>.Intelligent Systems <br>.Software development<br><br><br><br><br><br>
 
 ### 🌐 Connect with me :
