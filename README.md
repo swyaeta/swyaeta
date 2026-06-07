@@ -1,7 +1,7 @@
 ##  About Me:
 ####  Heyyy, I'm a student developer from Nepal 🇳🇵<br><br>I started coding to make games and visual novels, and slowly found myself building all sorts of things along the way and genuinely loved the feeling of seeing an idea come to life on screen.<br><br>🎮 Game development with Godot, Unity & Ren'Py  <br>🧠 Developing a Context-Aware AI Learning System  <br>💻 Exploring AI engineering, automation & software development  <br>🌱 Learning and growing every day  <br><br>🚀 Interests: <br>.Artifical Intelligence <br>.Machine Learning <br>.Game Development <br>.Intelligent Systems <br>.Software development<br><br><br><br><br><br>
 
-### 🌐 Socials:
+### 🌐 Connect with me :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/swyaeta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swyaeta) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@swyaeta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sw.yaetaa@gmail.com) 
 
 #### 💻 Tech Stack:
