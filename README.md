@@ -4,8 +4,7 @@ Heyyy, I'm a student developer from Nepal 🇳🇵
 
 I started coding because I wanted to make games and visual novels, and slowly found myself building all sorts of things along the way. I genuinely love the feeling of bringing an idea to life on screen.
 
-* Game development & visual novels with Godot and Ren'Py
-* Learning, building, and growing every day
+ Learning, building, and growing every day
 
 ### 🌐 Connect with me :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/swyaeta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swyaeta) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@swyaeta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sw.yaetaa@gmail.com) 
